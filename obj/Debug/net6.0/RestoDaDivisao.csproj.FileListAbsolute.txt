@@ -1,0 +1,15 @@
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\RestoDaDivisao\bin\Debug\net6.0\RestoDaDivisao.exe
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\RestoDaDivisao\bin\Debug\net6.0\RestoDaDivisao.deps.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\RestoDaDivisao\bin\Debug\net6.0\RestoDaDivisao.runtimeconfig.json
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\RestoDaDivisao\bin\Debug\net6.0\RestoDaDivisao.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\RestoDaDivisao\bin\Debug\net6.0\RestoDaDivisao.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\RestoDaDivisao\obj\Debug\net6.0\RestoDaDivisao.csproj.AssemblyReference.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\RestoDaDivisao\obj\Debug\net6.0\RestoDaDivisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\RestoDaDivisao\obj\Debug\net6.0\RestoDaDivisao.AssemblyInfoInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\RestoDaDivisao\obj\Debug\net6.0\RestoDaDivisao.AssemblyInfo.cs
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\RestoDaDivisao\obj\Debug\net6.0\RestoDaDivisao.csproj.CoreCompileInputs.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\RestoDaDivisao\obj\Debug\net6.0\RestoDaDivisao.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\RestoDaDivisao\obj\Debug\net6.0\refint\RestoDaDivisao.dll
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\RestoDaDivisao\obj\Debug\net6.0\RestoDaDivisao.pdb
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\RestoDaDivisao\obj\Debug\net6.0\RestoDaDivisao.genruntimeconfig.cache
+D:\LEANDRO\PROJETOS\Linguagem CSHARP\RestoDaDivisao\obj\Debug\net6.0\ref\RestoDaDivisao.dll
